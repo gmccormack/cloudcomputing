@@ -1,0 +1,1 @@
+"python code for solution1 of euler"
